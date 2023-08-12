@@ -1,4 +1,4 @@
-module github.com/dsrvlabs/vatz-plugin-flow-p
+module github.com/xellos00/vatz-plugin-flow-p
 
 go 1.19
 
